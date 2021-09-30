@@ -1,6 +1,6 @@
 {
-  people: [{
-  name:"kapil",
-  id: 1
+  "posts": [{
+   "name":"kapil",
+   "id": 1
   }]
 }
